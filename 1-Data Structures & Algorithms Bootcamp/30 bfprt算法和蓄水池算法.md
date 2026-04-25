@@ -2,7 +2,7 @@
 
 给定一个整数数组 arr 和一个正整数 k，找出这个数组中第 k 小的数（最小的数是第 1 小）。
 
-![](images/WEBRESOURCE531181d04579183489fefd8a58e1fef6image.png)
+![](images/WEBRESOURCEb084f853b5fd46abbf6cb61e8a734a97image.png)
 
 命中说明第k小的数找到了
 
@@ -18,19 +18,19 @@
 
 bfprt算法
 
-![](images/WEBRESOURCE6408d301d82189107dc2fd30a939cddbimage.png)
+![](images/WEBRESOURCE2e6af3b20257499a950655bcd088cd3eimage.png)
 
 计算p的值
 
-![](images/WEBRESOURCE65b8386b854eb33cd1401037a720ee2eimage.png)
+![](images/WEBRESOURCEc269a443cc8e46108e43808725941fd6image.png)
 
 整理一下
 
-![](images/WEBRESOURCEb954b0ee9e1307e4e4130c7a1879e4ddimage.png)
+![](images/WEBRESOURCEf52962be68de4890b4485daacda3163bimage.png)
 
 bfprt在做什么？
 
-![](images/WEBRESOURCEfc6e51430342da729530f8113f59afdcimage.png)
+![](images/WEBRESOURCE1c995f3ee91546d580f18809c50b571fimage.png)
 
 你提到的图示和问题涉及到 BFPRT 算法（Blum-Floyd-Pratt-Rivest-Tarjan 算法），这是一种用于在最坏情况下线性时间复杂度内找到数组中第 k 小元素的算法。这个算法的核心思想是通过分组和选择中位数来确保每次划分都能得到较好的平衡，从而保证整体的时间复杂度为 O(N)。
 

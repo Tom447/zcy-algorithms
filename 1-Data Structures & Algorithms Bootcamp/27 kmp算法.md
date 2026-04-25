@@ -1,34 +1,34 @@
 先对数据进行处理获得预处理数组
 
-![](images/WEBRESOURCE951afcb7d40143cff4e5078e6ea3fc8cimage.png)
+![](images/WEBRESOURCEe4978236229a49569ad3f63a7fd4dd7bimage.png)
 
 kmp算法做的事情
 
-![](images/WEBRESOURCE8bcab02ee309e7ab429ba2f9058a6172image.png)
+![](images/WEBRESOURCEe9b91f8991b242b7aef2560b9dc0ad0eimage.png)
 
 具体例子
 
-![](images/WEBRESOURCE34225c15457538ade952a3c177704db6image.png)
+![](images/WEBRESOURCE857a2ff3641a411d8c6fb923300f32d0image.png)
 
 kmp算法使用next数组完成短暂的加速
 
-![](images/WEBRESOURCE23bc1bc05efd61f5efacd62c5d3cf386image.png)
+![](images/WEBRESOURCE628d67b43d55407a92b6ab49dd8a1790image.png)
 
 kmp的简单证明
 
-![](images/WEBRESOURCE3b88294d380a88e59588c48efee24603image.png)
+![](images/WEBRESOURCEb2fa5fd8104b4e5e95854859b43ba870image.png)
 
 k若匹配，那么s2中的相等的前后缀长度就不成立
 
 next数组的计算方法
 
-![](images/WEBRESOURCE5479d6998331c1ea9191c7f135c59b40image.png)
+![](images/WEBRESOURCEd67989e00f1c468ebf45dda2f049821fimage.png)
 
 证明为什么i-1为b的话，8号位置也为b next[i] = 8.
 
 假设next[i] = 9:
 
-![](images/WEBRESOURCE2d2eefcf8a0f91caa894fb18ff6a04e7image.png)
+![](images/WEBRESOURCEc2dfc07fa8f148d0b78f6fba32c503f5image.png)
 
 那么i-1位置应该为8，所以矛盾。
 
@@ -36,9 +36,9 @@ next数组的计算方法
 
 next的计算方法
 
-![](images/WEBRESOURCEd8d51dd189a096d6876c269a63302a31image.png)
+![](images/WEBRESOURCE9491feda0e1c4cd8948dd83f42807e87image.png)
 
-![](images/WEBRESOURCEd41db77d9fe86375f596b977ac508140image.png)
+![](images/WEBRESOURCE1cffdb92b4e84f4bb65b24a1e239696bimage.png)
 
 代码实现
 

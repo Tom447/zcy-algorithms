@@ -8,25 +8,25 @@ morris遍历实现
 
 morris遍历是为了将空间复杂度降低到O（1）
 
-![](images/WEBRESOURCE54e94d6ccbfb0e7bf2dae1274d7ffaf7image.png)
+![](images/WEBRESOURCE2d963f763ad24247b9593c1f2223f809image.png)
 
 通过morris得到先序
 
-![](images/WEBRESOURCE33fe8fc5434453df917fedf27abba430image.png)
+![](images/WEBRESOURCE8166b48897dd435b82380673b7b4509fimage.png)
 
 后续遍历
 
-![](images/WEBRESOURCE21a361b197516dfb65f5cb4999438fcdimage.png)
+![](images/WEBRESOURCE414dcaa142694625bc738e60b6dec4f2image.png)
 
 morris二次回归点的左树右边界的逆序
 
 最后再把整棵树的左树右边界逆序打印
 
-![](images/WEBRESOURCE06b1ca3e9cc52291f56e524ac2f5a2c4image.png)
+![](images/WEBRESOURCEc5395fc5f9ce480c94965ce004e20a99image.png)
 
 这里的morris序是基于二叉树的递归序得出来的
 
-![](images/WEBRESOURCEfa3ae67e8238827e437dd83ab095c92aimage.png)
+![](images/WEBRESOURCEc856e89caee44268bcf1fa369ddc27d6image.png)
 
 左序右边界用链表反转的方法进行操作
 

@@ -13,31 +13,31 @@
 
 help数组怎么设置
 
-![](images/WEBRESOURCE7adeb2b978ddf9043f3adc42c206cd7fimage.png)
+![](images/WEBRESOURCE046b10d4ab94416bbc896ee07aa67b3bimage.png)
 
 index覆盖的范围
 
-![](images/WEBRESOURCE6f6a7e60bf1052452eaf51b339ca02e7image.png)
+![](images/WEBRESOURCE15fcd497595a4692a2dee11db016eeeeimage.png)
 
 前缀和的计算
 
-![](images/WEBRESOURCE861593e19249027c7a1bd527eab10e8bimage.png)
+![](images/WEBRESOURCE891f62b5be6843c4ae0cd009d1af40cdimage.png)
 
 怎么计算1-i位置的累加和
 
-![](images/WEBRESOURCE917f02bd7edac8736880ed6def98f66dimage.png)
+![](images/WEBRESOURCE699b6917fef141b2af13a7ccd3e4e74fimage.png)
 
-![](images/WEBRESOURCE585ce023783f9f8a6753904c83a39a2eimage.png)
+![](images/WEBRESOURCEcbd089db57694223a3935ba6a125f51aimage.png)
 
 若修改3导致牵连，牵连关系是什么
 
-![](images/WEBRESOURCE635745c1fa9192b70d6aef89f2a80813image.png)
+![](images/WEBRESOURCE0dd48f87ecb1452b85ffe47e48a495b6image.png)
 
 以需要改动的位置为根基
 
 然后找到最右侧的1加个1就可以找到牵连位置
 
-![](images/WEBRESOURCE6678ac47136b512d05c5084a8c858dedimage.png)
+![](images/WEBRESOURCE0168b54ec80f4bf9926c6276b40a64ffimage.png)
 
 代码实现
 
@@ -126,15 +126,15 @@ public class code01_IndexTree {
 
 二维indexTree
 
-![](images/WEBRESOURCEff87298ab6e034c49d5ebd3b4c2ae82dimage.png)
+![](images/WEBRESOURCE2629b56f9ddf4702936b096418772917image.png)
 
 help点的位置的关联
 
-![](images/WEBRESOURCE7c86bcd3a80ae4fcef5cd6e33017039fimage.png)
+![](images/WEBRESOURCEcabc4e9f15d0413b8d7a315f948ba43aimage.png)
 
 三维
 
-![](images/WEBRESOURCE539eb23086b4702e892ed53622a26050image.png)
+![](images/WEBRESOURCEd29bf5c4677f4fdcb96a8a55bc7c3a45image.png)
 
 问题二：
 
@@ -215,39 +215,39 @@ ac自动机实现
 
 前缀树
 
-![](images/WEBRESOURCEb930aeb0f2f3769c1bb4f9607317379fimage.png)
+![](images/WEBRESOURCEd02e5f0da8164d04a75d17c290b19d16image.png)
 
 fail指针的指向
 
-![](images/WEBRESOURCE56d29594b3455295f4c1907e9a13a6d4image.png)
+![](images/WEBRESOURCEc9af533cc5da4854bcb0e2a965bfd949image.png)
 
-![](images/WEBRESOURCEd68cce7069c4e6a26cefbefb990f953dimage.png)
+![](images/WEBRESOURCE8215d8816a5f4a13ac5d5bd82db55eceimage.png)
 
-![](images/WEBRESOURCE2afca9ecc9446ad8effde10e1c023d1eimage.png)
+![](images/WEBRESOURCE65174eea86304c8f984fa8ee3fd399cbimage.png)
 
-![](images/WEBRESOURCE2b7e45a58e8e35e30f4a7e0d8a01f0c0image.png)
+![](images/WEBRESOURCEe793260df47b472cb8573d0d284e0fcfimage.png)
 
-![](images/WEBRESOURCE9ac763b1a7d1922ee003050142b51f53image.png)
+![](images/WEBRESOURCE4c3a132c0e8b485d8bceb79001271bf0image.png)
 
 ac自动机淘汰策略
 
-![](images/WEBRESOURCE720df495f98982e4969ab0ee563c544eimage.png)
+![](images/WEBRESOURCEbdfb08283eba4e5bbc1d389321e18291image.png)
 
-![](images/WEBRESOURCE79c351fa5b08f5d484258b4cf866b2d3image.png)
+![](images/WEBRESOURCEfd16b04a45d34fdf8c1e685ff4570e05image.png)
 
 如何保证最长
 
-![](images/WEBRESOURCEeebef4e285904ecf3ca4bb0e19676d65image.png)
+![](images/WEBRESOURCE88eec44835d04942b145e151494d85a6image.png)
 
 x节点的父节点就已经保证了最长，这样就可以保证x是最长
 
 最长部分不依赖于具体的画法
 
-![](images/WEBRESOURCEfb09d9d21fdbf3c7eeb8c0b0d4812abdimage.png)
+![](images/WEBRESOURCE5b3c058963e348b2b00f1a20296653bdimage.png)
 
 收集的方法
 
-![](images/WEBRESOURCE6c9a17e54db954356295a3475fff9653image.png)
+![](images/WEBRESOURCEb73f640306bf4cf58863b541ae293006image.png)
 
 代码实现
 
